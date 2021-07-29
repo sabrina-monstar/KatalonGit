@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "2D1F30F01BE8DC6B9532A9A6248FEE63",
+  "keywordClasses": [
+    {
+      "name": "com.random",
+      "keywordMethods": [
+        {
+          "name": "randomName",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "randomNumber",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "randomEmail",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

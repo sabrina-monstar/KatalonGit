@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Random form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b60427af-45f1-4187-a716-5245e5ba10dc</testCaseGuid>
+   <variable>
+      <defaultValue>'http://demo.guru99.com/test/newtours/register.php'</defaultValue>
+      <description></description>
+      <id>0ef11996-3903-4775-a071-ef18dd323bc5</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

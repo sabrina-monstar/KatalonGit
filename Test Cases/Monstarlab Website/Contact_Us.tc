@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Contact_Us</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87e82540-1db7-4e56-9011-a0617f668a41</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\Users\\mlbdeithnt\\Katalon Studio\\My First Web UI Project\\DataFiles\\paint.jpg'</defaultValue>
+      <description></description>
+      <id>0c9a23f5-9982-41f4-bf56-adde62e6d16e</id>
+      <masked>false</masked>
+      <name>upload</name>
+   </variable>
+</TestCaseEntity>

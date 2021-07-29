@@ -1,0 +1,64 @@
+{
+  "keywordFileContentHash": "547A115742A699D9F2D1D3E8CAD3593C",
+  "keywordClasses": [
+    {
+      "name": "com.lipsum",
+      "keywordMethods": [
+        {
+          "name": "getWords",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getMoreWords",
+          "parameters": [
+            {
+              "name": "numWords",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getParagraph",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getMoreParagraph",
+          "parameters": [
+            {
+              "name": "numPara",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "webEmail",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
